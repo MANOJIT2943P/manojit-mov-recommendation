@@ -1,0 +1,5 @@
+[theme]
+hide_git = true
+
+[genaral]
+hide_github_link = true
